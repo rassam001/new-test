@@ -82,5 +82,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# data that i want git to ignore
+pw.txt
 
 # End of https://www.gitignore.io/api/linux,macos,windows,compressed
